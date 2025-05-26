@@ -1,4 +1,6 @@
 Sentiment analysis/bert-finetuned
 Topic analysis/bert-topic-classifier
+Topic analysis/datasets-to-merge
 Sentiment analysis/trainer_output
+Topic analysis/logs
 *.csv

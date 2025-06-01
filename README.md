@@ -8,4 +8,4 @@
 - Books dataset: https://huggingface.co/datasets/bookcorpus/bookcorpus
 - Sports dataset: https://www.kaggle.com/datasets/shivamtaneja2304/google-news-sports
 ### NER:
-- https://huggingface.co/datasets/eriktks/conll2003
+- https://huggingface.co/datasets/eriktks/conll2003 (we use spaCy and Stanze instead)
